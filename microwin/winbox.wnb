@@ -47,7 +47,6 @@
     "Integrate net 4.7.2",
     "Integrate net 4.8.1",
     "Integrate net 8.0.17",
-    "Integrate net 9.0.6",
     "Disable security mitigations (performance boost)",
     "Do not disable hotkeys by changing the layout",
     "Do not disable hotkeys by keyboard filter",
