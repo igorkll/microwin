@@ -36,7 +36,6 @@
   "LaunchMode": 0,
   "TweakList": [
     "Integrate vc redist",
-    "Disable all boot UI",
     "Hide bootmgr errors",
     "Disable boot circle",
     "Disable boot messages",
