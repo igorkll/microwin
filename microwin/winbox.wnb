@@ -33,7 +33,7 @@
   "action_closingLaptop_dc": 4,
   "Architecture": "x64",
   "ProgramType": 3,
-  "LaunchMode": 0,
+  "LaunchMode": 1,
   "TweakList": [
     "Integrate vc redist",
     "Hide bootmgr errors",
@@ -49,7 +49,8 @@
     "Disable security mitigations (performance boost)",
     "Do not disable hotkeys by changing the layout",
     "Do not disable hotkeys by keyboard filter",
-    "Allow check-disk"
+    "Allow check-disk",
+    "Integrate net 9.0.6"
   ],
   "TweakListLevel": 0,
   "CustomBootLogo": null,
