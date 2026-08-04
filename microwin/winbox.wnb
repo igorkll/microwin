@@ -1,6 +1,6 @@
 {
-  "winboxMakerVersion": 10802,
-  "winboxMakerVersionStr": "1.8.2",
+  "winboxMakerVersion": 10803,
+  "winboxMakerVersionStr": "1.8.3",
   "BaseWindowsImage": "D:\\OSImages\\en_windows_10_enterprise_x64.iso",
   "BaseWindowsVersion": "Windows 10 Enterprise",
   "WinboxName": "microwin",
@@ -50,9 +50,11 @@
     "Do not disable hotkeys by changing the layout",
     "Do not disable hotkeys by keyboard filter",
     "Allow check-disk",
-    "Integrate net 9.0.6"
+    "Integrate net 9.0.6",
+    "Disable system integrity checks",
+    "Disable HyperV / VSM / ELAM"
   ],
-  "TweakListLevel": 0,
+  "TweakListLevel": 3,
   "CustomBootLogo": null,
   "AddVirtualDisplay": false,
   "VirtualDisplayWidth": 960,
@@ -277,7 +279,7 @@
   "keyboard_filter_DisableKeyboardFilterForAdministrators": false,
   "keyboard_filter_ForceOffAccessibility": true,
   "regtweak_overwrite_en": false,
-  "regtweak_overwrite": null,
+  "regtweak_overwrite": "",
   "firewall_disable": true,
   "app_runAsSystem": false,
   "app_uwp": "Microsoft.WindowsCalculator_8wekyb3d8bbwe!App",
