@@ -8,7 +8,7 @@ the system has built-in visual C++ redistributable for x64 and x86, as well as n
 net versions of "9.0.6 , 8.0.17 , 4.8.1 , 4.7.2" are also built in to run applications written in C#  
 
 ![preview1](https://raw.githubusercontent.com/igorkll/microwin/refs/heads/main/microwin/screenshots/1.png)  
-![preview2](https://raw.githubusercontent.com/igorkll/microwin/refs/heads/main/microwin/screenshots/2.png)  
+![preview2](https://raw.githubusercontent.com/igorkll/microwin/refs/heads/main/microwin/screenshots/2.1.png)  
 ![preview2](https://raw.githubusercontent.com/igorkll/microwin/refs/heads/main/microwin/screenshots/3.png)  
 ![preview2](https://raw.githubusercontent.com/igorkll/microwin/refs/heads/main/microwin/screenshots/4.png)  
 
