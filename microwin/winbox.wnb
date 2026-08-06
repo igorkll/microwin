@@ -35,7 +35,6 @@
   "ProgramType": 3,
   "LaunchMode": 1,
   "TweakList": [
-    "Integrate vc redist",
     "Hide bootmgr errors",
     "Disable boot circle",
     "Disable boot messages",
@@ -52,7 +51,8 @@
     "Allow check-disk",
     "Integrate net 9.0.6",
     "Disable system integrity checks",
-    "Disable HyperV / VSM / ELAM"
+    "Disable HyperV / VSM / ELAM",
+    "Integrate vc redist (compatible architectures)"
   ],
   "TweakListLevel": 3,
   "CustomBootLogo": null,
@@ -104,7 +104,7 @@
   "img_runningPostinstallOnFirstRealStartup": true,
   "img_generalizeAfterInstall": true,
   "computername_use": true,
-  "computername": "winbox-maker",
+  "computername": "microwin",
   "actionAtEndOfApplication": 1,
   "actionAtEndOfApplication_command": "",
   "appdelay_time": false,
